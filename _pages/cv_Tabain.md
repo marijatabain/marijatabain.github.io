@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Qualifications and employment"
+title: "CV"
 permalink: /cv_Tabain/
 author_profile: true
 redirect_from:
