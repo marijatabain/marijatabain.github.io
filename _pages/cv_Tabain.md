@@ -55,32 +55,20 @@ Service (selected highlights)
   * _Journal of Phonetics_ – Associate Editor (2015-2018)
 
 * Committee work
-  * Executive Member of the Council of the International Phonetic Association (2019-2027)
-  * Council of the International Phonetic Association (2015-2027) 
-  * Fellow of the Australian Academy of the Humanities (2024-)
-  * Australasian Speech Science and Technology Association (Executive Member 2010-2015; Secretary 2013-2015)
-  * Australian Research Council – Member of Panel of Experts (2017-2019)
+  * Executive Member of the Council of the _International Phonetic Association_ (2019-2027)
+  * Council of the _International Phonetic Association_ (2015-2027) 
+  * Fellow of the _Australian Academy of the Humanities_ (2024-)
+  * _Australasian Speech Science and Technology Association_ (Executive Member 2010-2015; Secretary 2013-2015)
+  * _Australian Research Council_ – Member of Panel of Experts (2017-2019)
 
 * Conference organization
-  * 19th International Congress of the Phonetic Sciences (ICPhS)<br>
+  * 19th _International Congress of the Phonetic Sciences_ (ICPhS)<br>
   Melbourne, Australia, 2019<br>
 	- General chair
-  * 13th Australasian International Conference on Speech Science and Technology (SST)<br>
+  * 13th _Australasian International Conference on Speech Science and Technology_ (SST)<br>
   Melbourne, Australia, 2010<br>
 	- General chair
-  * 6th International Seminar on Speech Production (ISSP)<br>
+  * 6th _International Seminar on Speech Production_ (ISSP)<br>
   Sydney, Australia, 2003<br>
   - Co-chair
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
