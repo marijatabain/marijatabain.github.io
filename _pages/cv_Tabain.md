@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Qualifications and employment"
-permalink: /cv/
+permalink: /cv_Tabain/
 author_profile: true
 redirect_from:
   - /resume
