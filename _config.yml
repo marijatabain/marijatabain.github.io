@@ -21,12 +21,12 @@ repository               : "marijatabain/marijatabain.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Marija_2005.jpg"
+  name             : "Marija Tabain"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Phonetics"
   location         : "Melbourne, Australia"
-  employer         : #"Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : #"none@example.org" 
 
