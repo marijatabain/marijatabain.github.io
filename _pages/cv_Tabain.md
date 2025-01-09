@@ -15,12 +15,12 @@ Qualifications
 _Articulatory and acoustic aspects of coarticulation in CV syllables_
 * B.A. (Hons), University of Melbourne, 1995<br>
 _A Spectrographic Study of Nasal Consonants in Yanyuwa and Yindjibarndi_ <br>
-Majors: Linguistics with French - First-class Honours
+Majors: Linguistics with French - First-class Honours<br>
 Minors: Italian and Russian
 * B. Mus. (Hons), University of Melbourne, 1995<br>
 Major: Pianoforte - First-class Honours
-* L. Mus. A. (pianoforte), 1991
-* A. Mus. A. (pianoforte), 1989
+* L. Mus. A. (Pianoforte), 1991
+* A. Mus. A. (Pianoforte), 1989
 
 Employment
 ======
