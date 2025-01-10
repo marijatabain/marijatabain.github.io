@@ -5,7 +5,7 @@ permalink: /publications_mt/
 author_profile: true
 ---
 
-[Other conference papers](#other-conference-papers)
+[Other journal publications](#other-journal-publications)
 
 # Journal Papers 
 
