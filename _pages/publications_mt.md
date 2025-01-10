@@ -8,7 +8,7 @@ author_profile: true
 
 ## Journal Papers 
 
-**Tabain, Marija**, Jaye Padgett, Gertrud Schneider-Blum, Adele Gregory & Richard Beare. (published online 2024). An acoustic study of ATR in Tima vowels: vowel quality, voice quality and duration. *Phonology* 1–28 https://doi.org/10.1017/S0952675724000125 
+**Tabain, Marija**, Jaye Padgett, Gertrud Schneider-Blum, Adele Gregory & Richard Beare. (published online 2024). An acoustic study of ATR in Tima vowels: vowel quality, voice quality and duration. *Phonology* 1–28 [link](https://doi.org/10.1017/S0952675724000125) 
 
 Badin, Pierre, Thomas Sawallis, **Marija Tabain** & Laurent Lamalle. (published online 2024). Exploring bilingual articulatory strategies with anatomic MRI data. *Language and Speech* 1–35 https://doi.org/10.1177/00238309231224790
 
