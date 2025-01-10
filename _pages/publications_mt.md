@@ -45,7 +45,7 @@ Garellek, Marc & **Marija Tabain**. (2020). Tongan: Illustration of the IPA. *Jo
 
 Kochetov, Alexei, **Marija Tabain**, N. Sreedevi & Richard Beare. (2018). Manner and place differences in Kannada coronal contrasts: articulatory and acoustic results. *Journal of the Acoustical Society of America* **144** 3221-3235. https://doi.org/10.1121/1.5081686 
 
-Gregory, Adele, **Marija Tabain** & Michael Robb. (2018). Duration and voice quality of early infant vocalizations. *Journal of Speech, Hearing and Language Research* **61** 1591-1602. https://doi.org/10.1044/2018_JSLHR-S-17-0316 
+</ins>Gregory, Adele</ins>, **Marija Tabain** & Michael Robb. (2018). Duration and voice quality of early infant vocalizations. *Journal of Speech, Hearing and Language Research* **61** 1591-1602. https://doi.org/10.1044/2018_JSLHR-S-17-0316 
 
 **Tabain, Marija** & Richard Beare. (2018). An ultrasound study of coronal places of articulation in Central Arrernte: apicals, laminals and rhotics. *Journal of Phonetics* **66** 63-81. https://doi.org/10.1016/j.wocn.2017.09.006 
 
@@ -122,19 +122,19 @@ Ashby, Michael & **Marija Tabain**. (2020). 50 Years of JIPA. *Journal of the In
 
 **Tabain, Marija**, Mate Kapović, Matthew Gordon, Adele Gregory & Richard Beare. (2023). The influence of syllable structure on lexical tones in Croatian: no effect? 20th International Congress of the Phonetic Sciences. Prague: Czechia, 1230–1234. 
 
-Stanley, Rael, **Marija Tabain** & Defen Yu. (2022). Tone and vowel interaction in Northern Lisu. 18th Australasian International Conference on Speech Science and Technology. Canberra: Australia, 16–20. ISSN 2207-1296
+<ins>Stanley, Rael</ins>, **Marija Tabain** & Defen Yu. (2022). Tone and vowel interaction in Northern Lisu. 18th Australasian International Conference on Speech Science and Technology. Canberra: Australia, 16–20. ISSN 2207-1296
 
 **Tabain, Marija**, Mate Kapović, Matthew Gordon, Adele Gregory & Richard Beare. (2022). A preliminary study of lexical pitch accents in the Split dialect of Croatian. 18th Australasian International Conference on Speech Science and Technology. Canberra: Australia, 206–210. ISSN 2207-1296
 
 Badin, Pierre, **Marija Tabain** & Laurent Lamalle. (2019). Comparative study of coarticulation in a multilingual speaker: preliminary results from MRI data. 19th International Congress of the Phonetic Sciences. Melbourne: Australia, 3453–3457. ISBN 978-0-646-80069-1
 
-Ford, Casey & **Marija Tabain**. (2019). Spectral features of voiceless fricatives produced by Australian English-speaking children. 19th International Congress of the Phonetic Sciences. Melbourne: Australia, 3105–3109. ISBN 978-0-646-80069-1
+<ins>Ford, Casey</ins> & **Marija Tabain**. (2019). Spectral features of voiceless fricatives produced by Australian English-speaking children. 19th International Congress of the Phonetic Sciences. Melbourne: Australia, 3105–3109. ISBN 978-0-646-80069-1
 
-Stanley, Rael, David Bradley, Defen Yu & **Marija Tabain**. (2019). An acoustic study of vowels in Northern Lisu. 19th International Congress of the Phonetic Sciences. Melbourne: Australia, 1435–1439. ISBN 978-0-646-80069-1
+<ins>Stanley, Rael</ins>, David Bradley, Defen Yu & **Marija Tabain**. (2019). An acoustic study of vowels in Northern Lisu. 19th International Congress of the Phonetic Sciences. Melbourne: Australia, 1435–1439. ISBN 978-0-646-80069-1
 
 **Tabain, Marija** & Richard Beare. (2018). A study of formants preceding apical consonants in Pitjantjatjara. 17th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 1-4. ISSN 2207-1296
 
-Ford, Casey, **Marija Tabain** & Gerry Docherty. (2018). Gender differences in the spectral characteristics of voiceless sibilants produced by Australian English-speaking children. 17th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 97-100. ISSN 2207-1296
+<ins>Ford, Casey</ins>, **Marija Tabain** & Gerry Docherty. (2018). Gender differences in the spectral characteristics of voiceless sibilants produced by Australian English-speaking children. 17th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 97-100. ISSN 2207-1296
 
 **Tabain, Marija**, Richard Beare & Andrew Butcher. (2018). Formant measures of vowels adjacent to alveolar and retroflex consonants in Arrernte: stressed and unstressed position. Interspeech 2018. Hyderabad: India, 2181-2185. http://dx.doi.org/10.21437/Interspeech.2018-1126 
 
@@ -144,9 +144,9 @@ Ford, Casey, **Marija Tabain** & Gerry Docherty. (2018). Gender differences in t
 
 **Tabain, Marija**, Alexei Kochetov, N. Sreedevi & Richard Beare. (2016). A comparative ultrasound study of coronal consonants in Arrernte and Kannada: manner contrasts. 16th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 25-28. 
 
-Tait, Casey & **Marija Tabain**. (2016). Patterns of gender variation in the speech of primary school-aged children in the Australian English: the case of /p t k/. 16th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 65-68. 
+<ins>Tait, Casey</ins> & **Marija Tabain**. (2016). Patterns of gender variation in the speech of primary school-aged children in the Australian English: the case of /p t k/. 16th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 65-68. 
 
-Gregory, Adele & **Marija Tabain**. (2016). Fundamental frequency characteristics of infant vocalisations: a study in voice quality. 16th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 1-4. 
+<ins>Gregory, Adele</ins> & **Marija Tabain**. (2016). Fundamental frequency characteristics of infant vocalisations: a study in voice quality. 16th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 1-4. 
 
 **Tabain, Marija** & Richard Beare. (2015). An EPG and EMA study of apicals in stressed and unstressed position in Arrernte. 18th International Congress of the Phonetic Sciences. Glasgow: Scotland. ISBN 978-0-85261-941-4
 
@@ -154,15 +154,15 @@ Gregory, Adele & **Marija Tabain**. (2016). Fundamental frequency characteristic
 
 **Tabain, Marija**, Andrew Butcher, Gavan Breen & Richard Beare. (2014). A spectral analysis of laterals in three Central Australian languages. 15th Australasian International Conference on Speech Science and Technology. Christchurch: New Zealand, 98-101. 
 
-Tait, Casey, **Tabain, Marija** & Ingrid Sykes. (2014). Stress-meter alignment in American Hip-Hop. 15th Australasian International Conference on Speech Science and Technology. Christchurch: New Zealand, 189-192. 
+<ins>Tait, Casey</ins>, **Tabain, Marija** & Ingrid Sykes. (2014). Stress-meter alignment in American Hip-Hop. 15th Australasian International Conference on Speech Science and Technology. Christchurch: New Zealand, 189-192. 
 
-Gregory, Adele, **Marija Tabain** & Michael Robb. (2014). Consonant inventory of infants aged 0-6 months. 15th Australasian International Conference on Speech Science and Technology. Christchurch: New Zealand, 224-227. 
+<ins>Gregory, Adele</ins>, **Marija Tabain** & Michael Robb. (2014). Consonant inventory of infants aged 0-6 months. 15th Australasian International Conference on Speech Science and Technology. Christchurch: New Zealand, 224-227. 
 
 Bowman, Sally, **Marija Tabain** & Roberto Zariquay-Biondi. (2014). Retention of Spanish coda /s/ in Kashibo-Kakataibo. 15th Australasian International Conference on Speech Science and Technology. Christchurch: New Zealand, 168-171. 
 
 **Tabain, Marija**, Richard Beare & Andrew Butcher. (2013). A preliminary spectral analysis of palatal and velar stop bursts in Pitjantjatjara. Interspeech 2013. Lyon: France, 291-295. 
 
-Gregory, Adele, **Marija Tabain** & Michael Robb. (2013). Duration of early vocalisations. Interspeech 2013. Lyon: France, 1258-1262
+<ins>Gregory, Adele</ins>, **Marija Tabain** & Michael Robb. (2013). Duration of early vocalisations. Interspeech 2013. Lyon: France, 1258-1262
 
 **Tabain, Marija** & Janet Fletcher. (2012). A preliminary study of intonation in Pitjantjatjara. 14th Australasian International Conference on Speech Science and Technology. Sydney: Australia, 213-216. 
 
@@ -172,7 +172,7 @@ Stoakes, Hywel, Andrew Butcher, Janet Fletcher & **Marija Tabain**. (2012). Plac
 
 Stoakes, Hywel, Andrew Butcher, Janet Fletcher & **Marija Tabain**. (2011). Long term average speech spectra in Yolngu Matha and Pitjantjatjara speaking females and males. Interspeech 2011. Florence: Italy, 1897-1900.  
 
-Gregory, Adele, **Marija Tabain** & Angela Morgan. (2010). Fundamental frequency and perturbation in infant vocalisations. 13th Australasian International Conference on Speech Science and Technology. Melbourne: Australia, 162-165. 
+<ins>Gregory, Adele</ins>, **Marija Tabain** & Angela Morgan. (2010). Fundamental frequency and perturbation in infant vocalisations. 13th Australasian International Conference on Speech Science and Technology. Melbourne: Australia, 162-165. 
 
 **Tabain, Marija** & Richard Beare. (2010). Jaw movement and coronal stop spectra: the case of Central Arrernte. 13th Australasian International Conference on Speech Science and Technology. Melbourne: Australia, 94-97. 
 
@@ -216,29 +216,29 @@ Harrington, Jonathan & **Marija Tabain**. (2006). Introduction. In Jonathan Harr
 
 ## Conference Papers (Abstracts)
 
-Stanley, Rael, **Marija Tabain**, David Bradley & Defen Yu. (2023). Northern Lisu Vowels & Tones, and Their Interactions. Acoustics 2023. Sydney, Australia. 
+<ins>Stanley, Rael</ins>, **Marija Tabain**, David Bradley & Defen Yu. (2023). Northern Lisu Vowels & Tones, and Their Interactions. Acoustics 2023. Sydney, Australia. 
 
-Gregory, Adele & **Marija Tabain**. (2021). Using acoustic analysis to investigate voice quality in Australian English infants. Australian Linguistics Society. Online, Australia. 
+<ins>Gregory, Adele</ins> & **Marija Tabain**. (2021). Using acoustic analysis to investigate voice quality in Australian English infants. Australian Linguistics Society. Online, Australia. 
 
-Stanley, Rael, **Marija Tabain**, David Bradley & Defen Yu. (2021). Voiceless fricatives in Northern Lisu. Australian Linguistics Society. Online: Australia. 
+<ins>Stanley, Rael</ins>, **Marija Tabain**, David Bradley & Defen Yu. (2021). Voiceless fricatives in Northern Lisu. Australian Linguistics Society. Online: Australia. 
 
 **Tabain, Marija**, Gertrud Schneider-Blum, Adele Gregory & Jaye Padgett. (2021). An acoustic study of ATR vowels in Tima. Australian Linguistics Society. Online, Australia. 
 
 **Tabain, Marija** & Richard Beare. (2020). An EPG study of CVC consonant coarticulation in Arrernte. 12th International Seminar on Speech Production (ISSP). Online: USA (withdrawn)
 
-Stanley, Rael, **Marija Tabain**, David Bradley & Defen Yu. (2020). Tone and phonation in Northern Lisu. 12th International Seminar on Speech Production (ISSP). Online: USA. 
+<ins>Stanley, Rael</ins>, **Marija Tabain**, David Bradley & Defen Yu. (2020). Tone and phonation in Northern Lisu. 12th International Seminar on Speech Production (ISSP). Online: USA. 
 
 **Tabain, Marija** & Birgit Hellwig. (2020). Voiced stops and pre-nasalization in Qaqet. Australian Linguistics Society. Online, Australia. 
 
-Stanley, Rael, **Marija Tabain**, David Bradley & Defen Yu. (2020). Tone and vowel interaction in Northern Lisu. Australian Linguistics Society. Online: Australia. 
+<ins>Stanley, Rael</ins>, **Marija Tabain**, David Bradley & Defen Yu. (2020). Tone and vowel interaction in Northern Lisu. Australian Linguistics Society. Online: Australia. 
 
-Tait, Casey, **Marija Tabain** & Gerry Docherty. (2018). Sex differences and developmental trends in Australian English-speaking children's vowels. 2nd Workshop on Sociophonetic Variability in the English varieties of Australia (SocioPhonAus 2018). Brisbane: Australia.
+<ins>Tait, Casey</ins>, **Marija Tabain** & Gerry Docherty. (2018). Sex differences and developmental trends in Australian English-speaking children's vowels. 2nd Workshop on Sociophonetic Variability in the English varieties of Australia (SocioPhonAus 2018). Brisbane: Australia.
 
-Tait, Casey, **Marija Tabain** & Gerry Docherty. (2017). Sex differences in sibilant production - data from Australian English-speaking children. 11th UK Language Variation and Change (UKLVC) conference. Cardiff: Wales. 
+<ins>Tait, Casey</ins>, **Marija Tabain** & Gerry Docherty. (2017). Sex differences in sibilant production - data from Australian English-speaking children. 11th UK Language Variation and Change (UKLVC) conference. Cardiff: Wales. 
 
 **Tabain, Marija** & Richard Beare. (2016). A preliminary ultrasound study of apical consonants in stressed and unstressed position in Arrernte. 5th joint meeting of the Acoustical Society of America and the Acoustical Society of Japan. Honolulu: Hawaii, USA. 
 
-Tait, Casey & **Marija Tabain**. (2016). Gender-specific variation in children's production of voiceless plosives /p t k/ in Australian English. 1st Workshop on Sociophonetic Variability in the English varieties of Australia (SocioPhonAus 2016). Brisbane: Australia. 
+<ins>Tait, Casey</ins> & **Marija Tabain**. (2016). Gender-specific variation in children's production of voiceless plosives /p t k/ in Australian English. 1st Workshop on Sociophonetic Variability in the English varieties of Australia (SocioPhonAus 2016). Brisbane: Australia. 
 
 **Tabain, Marija** & Richard Beare. (2015). Recordings of Australian English and Central Arrernte using the EchoBlaster and AAA. Ultrafest VII. University of Hong Kong: Hong Kong. 
 
@@ -254,7 +254,7 @@ Tait, Casey & **Marija Tabain**. (2016). Gender-specific variation in children's
 
 **Tabain, Marija**. (2010b). An EPG study of contrastive focus in Arrernte palatal consonants. *Laboratory Phonology* 12. New Mexico: USA. 
 
-Gregory, Adele, **Marija Tabain** & Angela Morgan. (2009). Voice quality in infant vocalizations. 16th Australian *Language and Speech* Conference. Sydney: Australia. 
+<ins>Gregory, Adele</ins>, **Marija Tabain** & Angela Morgan. (2009). Voice quality in infant vocalizations. 16th Australian *Language and Speech* Conference. Sydney: Australia. 
 
 **Tabain, Marija**. (2008). An EPG study of palatal consonants in Arrernte. *Laboratory Phonology* 11. Wellington: New Zealand. 
 
