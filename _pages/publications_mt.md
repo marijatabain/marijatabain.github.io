@@ -9,6 +9,8 @@ author_profile: true
 
 [Other journal publications](#other-journal-publications)
 
+[Conference Papers (full refereed papers)](#conference-papers-full-refereed-papers)
+
 # Journal Papers 
 
 **Tabain, Marija**, Jaye Padgett, Gertrud Schneider-Blum, Adele Gregory & Richard Beare. (published online 2024). An acoustic study of ATR in Tima vowels: vowel quality, voice quality and duration. *Phonology* 1–28 [link](https://doi.org/10.1017/S0952675724000125) 
