@@ -158,7 +158,7 @@ Badin, Pierre, **Marija Tabain** & Laurent Lamalle. (2019). Comparative study of
 
 <ins>Gregory, Adele</ins>, **Marija Tabain** & Michael Robb. (2014). Consonant inventory of infants aged 0-6 months. *15th Australasian International Conference on Speech Science and Technology.* Christchurch: New Zealand, 224-227. 
 
-Bowman, Sally, **Marija Tabain** & Roberto Zariquay-Biondi. (2014). Retention of Spanish coda /s/ in Kashibo-Kakataibo. *15th Australasian International Conference on Speech Science and Technology.* Christchurch: New Zealand, 168-171. 
+<ins>Bowman, Sally</ins>, **Marija Tabain** & Roberto Zariquay-Biondi. (2014). Retention of Spanish coda /s/ in Kashibo-Kakataibo. *15th Australasian International Conference on Speech Science and Technology.* Christchurch: New Zealand, 168-171. 
 
 **Tabain, Marija**, Richard Beare & Andrew Butcher. (2013). A preliminary spectral analysis of palatal and velar stop bursts in Pitjantjatjara. *Interspeech 2013.* Lyon: France, 291-295. 
 
