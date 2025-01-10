@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Journal Papers 
+# Journal Papers 
 
 **Tabain, Marija**, Jaye Padgett, Gertrud Schneider-Blum, Adele Gregory & Richard Beare. (published online 2024). An acoustic study of ATR in Tima vowels: vowel quality, voice quality and duration. *Phonology* 1–28 [link](https://doi.org/10.1017/S0952675724000125) 
 
@@ -99,13 +99,13 @@ Butcher, Andrew & **Marija Tabain**. (2004). On the back of the tongue: dorsal s
 
 **Tabain, Marija**. (1998). Non-sibilant fricatives in English: spectral information above 10 kHz. *Phonetica* **55** 107-130. [link](http://dx.doi.org/10.1159/000028427) 
 
-## Other Journal publications
+# Other Journal publications
 
 Ashby, Michael & **Marija Tabain**. (2020). 50 Years of JIPA. *Journal of the International Phonetic Association* **50** 445 – 448. [link](https://doi.org/10.1017/S0025100320000298)
 
 **Tabain, Marija**. (2023). Editorial report: JIPA 2019-2023. *Journal of the International Phonetic Association* **53** 1214 – 1217. [link](https://doi.org/10.1017/S0025100323000385)
 
-## Conference Papers (full refereed papers) 
+# Conference Papers (full refereed papers) 
 
 **Tabain, Marija**, Marc Garellek & Matthew Gordon. (2024). A consideration of the consonant chart in the International Phonetic Alphabet. *19th Australasian International Conference on Speech Science and Technology.* Melbourne: Australia, 1–6. ISSN 2207-1296
 
@@ -187,17 +187,19 @@ Kawai, Goh & **Marija Tabain**. (2000). Automatically detecting mispronounciatio
 
 **Tabain, Marija** & Catherine Watson. (1996). Classification of fricatives. *6th Australian International Conference on Speech Science and Technology.* Adelaide: Australia, 623-628. 
 
-## Edited Books 
+# Edited Books 
 
 Harrington, Jonathan & **Marija Tabain**. (eds) (2006). *Speech Production: Models, Phonetic Processes and Techniques.* New York: Psychology Press (ISBN 978 1 84169 437 5). 
 
-## Edited Conference Proceedings
+# Edited Conference Proceedings
 
 Calhoun, Sasha, Paola Escudero, **Marija Tabain** & Paul Warren P. (eds.). (2019). *Proceedings of the 19th International Congress of Phonetic Sciences: Melbourne, Australia.* Australasian Speech Science and Technology Association Inc.: Canberra, Australia (ISBN 978-0-646-80069-1). 
 
 **Tabain, Marija**, Janet Fletcher, David Grayden, John Hajek & Andrew Butcher. (eds.) (2010). *Proceedings of the 13th Australasian Conference on Speech Science and Technology.* Causal Productions: Adelaide, Australia (ISBN 978 0 9581946 3 1). 
 
-Palethorpe, Sallyanne & **Marija Tabain**. (eds.) (2003). *Proceedings of the Sixth International Seminar on Speech Production.* Macquarie University: Sydney, Australia (ISBN 1 86408 871 0). ## Book Chapters
+Palethorpe, Sallyanne & **Marija Tabain**. (eds.) (2003). *Proceedings of the Sixth International Seminar on Speech Production.* Macquarie University: Sydney, Australia (ISBN 1 86408 871 0). 
+
+# Book Chapters
 
 Baker, Brett & **Marija Tabain**. (in press). Australian languages. In Martin Ball (ed.) *Approximants: Their Phonetics and Phonology*, Equinox Publishing. 
 
@@ -213,7 +215,7 @@ Harrington, Jonathan & **Marija Tabain**. (2006). Introduction. In Jonathan Harr
 
 **Tabain, Marija**. (2006). An overview of electropalatography for normal speech (translated as "Electropalatografia (EPG) en la produccion normal del habla"). In Eduardo Padrós-Serrat (ed.) *Bases diagnosticas, terapeuticas y posturales del funcionalismo craniofacial: Tomo II*, 1246–1250, Madrid: Ripano. 
 
-## Conference Abstracts
+# Conference Abstracts
 
 <ins>Stanley, Rael</ins>, **Marija Tabain**, David Bradley & Defen Yu. (2023). Northern Lisu Vowels & Tones, and Their Interactions. *Acoustics 2023*. Sydney, Australia. 
 
