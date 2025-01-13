@@ -120,9 +120,9 @@ Ashby, Michael & **Marija Tabain**. (2020). 50 Years of JIPA. *Journal of the In
 
 # Conference Papers (full refereed papers) 
 
-**Tabain, Marija**, Marc Garellek & Matthew Gordon. (2024). A consideration of the consonant chart in the International Phonetic Alphabet. *19th Australasian International Conference on Speech Science and Technology.* Melbourne: Australia, 1–6. ISSN 2207-1296
+**Tabain, Marija**, Marc Garellek & Matthew Gordon. (2024). A consideration of the consonant chart in the International Phonetic Alphabet. *19th Australasian International Conference on Speech Science and Technology.* Melbourne: Australia, 1–6. ISSN 2207-1296 [link](https://assta.org/wp-content/uploads/2024/11/No_01_Tabain_Garellek_et_al_2024_1_6.pdf)
 
-**Tabain, Marija**, Mate Kapović, Matthew Gordon, Adele Gregory & Richard Beare. (2023). The influence of syllable structure on lexical tones in Croatian: no effect? *20th International Congress of the Phonetic Sciences.* Prague: Czechia, 1230–1234. 
+**Tabain, Marija**, Mate Kapović, Matthew Gordon, Adele Gregory & Richard Beare. (2023). The influence of syllable structure on lexical tones in Croatian: no effect? *20th International Congress of the Phonetic Sciences.* Prague: Czechia, 1230–1234 [link](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/30.pdf)
 
 <ins>Stanley, Rael</ins>, **Marija Tabain** & Defen Yu. (2022). Tone and vowel interaction in Northern Lisu. *18th Australasian International Conference on Speech Science and Technology.* Canberra: Australia, 16–20. ISSN 2207-1296
 
