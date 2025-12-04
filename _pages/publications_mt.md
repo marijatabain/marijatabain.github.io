@@ -21,11 +21,11 @@ author_profile: true
 
 # Journal Papers 
 
-Gordon, Matthew, **Marija Tabain**, Mate Kapović, Adele Gregory & Richard Beare. (in press 2025). Syllable structure and lexical pitch accent in Split Croatian. *Laboratory Phonology*
+Gordon, Matthew, **Marija Tabain**, Mate Kapović, Adele Gregory & Richard Beare. (2025). Syllable structure and lexical pitch accent in Split Croatian. *Laboratory Phonology* **16** 1–51 [link](https://doi.org/10.16995/labphon.17578)
 
 **Tabain, Marija**, Jaye Padgett, Gertrud Schneider-Blum, Adele Gregory & Richard Beare. (2024). An acoustic study of ATR in Tima vowels: vowel quality, voice quality and duration. *Phonology* **41** 1–28 [link](https://doi.org/10.1017/S0952675724000125) 
 
-Badin, Pierre, Thomas Sawallis, **Marija Tabain** & Laurent Lamalle. (published online 2024). Exploring bilingual articulatory strategies with anatomic MRI data. *Language and Speech* 1–35 [link](https://doi.org/10.1177/00238309231224790)
+Badin, Pierre, Thomas Sawallis, **Marija Tabain** & Laurent Lamalle. (2025). Exploring bilingual articulatory strategies with anatomic MRI data. *Language and Speech* **68** 731–765 [link](https://doi.org/10.1177/00238309231224790)
 
 **Tabain, Marija** & Gertrud Schneider-Blum. (2024). Tima: Illustration of the IPA. *Journal of the International Phonetic Association* **54** 515–539 [link](https://doi.org/10.1017/S0025100323000257) 
 
