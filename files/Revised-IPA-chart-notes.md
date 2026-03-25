@@ -16,7 +16,5 @@ Following discussions at that conference, we subsequently modified the chart to 
 
 Note that one point that was raised in the post-keynote discussions is not included in the current proposed chart. This is the possibility of extra approximant symbols, for e.g. the dental and the bilabial (as in Danish and Spanish respectively). This topic remains for further discussion. 
 
-Finally, please note that the voiceless~voiced distinction is not properly encoded in this version of the chart, due to my [MT] poor Word skills! 
+Finally, please note that the voiceless~voiced distinction is not properly encoded in this version of the chart, due to my poor Word skills! 
 
-M. TABAIN
-24th March 2026
