@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 ### Latest proposed changes to the IPA consonant chart
 
 In 2024 Marc Garellek, Matthew Gordon and I proposed a new version of the consonant chart at the SST conference in Melbourne:
