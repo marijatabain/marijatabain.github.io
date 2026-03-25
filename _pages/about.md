@@ -15,4 +15,6 @@ I am the Editor of the [*Journal of the International Phonetic Association (JIPA
 
 Here is our map showing the [Illustrations of the IPA](https://richardbeare.github.io/marijatabain/ipa_illustrations_all.html), which are published in *JIPA* 
 
-And here is a [link](https://assta.org/wp-content/uploads/2024/11/No_01_Tabain_Garellek_et_al_2024_1_6.pdf) to my recent conference paper with Marc Garellek and Matthew Gordon, discussing issues with the IPA consonant chart, with some suggested changes proposed. I'll post an update  soon - there was a lot of discussion after the talk! 
+And here is a [link](https://assta.org/wp-content/uploads/2024/11/No_01_Tabain_Garellek_et_al_2024_1_6.pdf) to my recent conference paper with Marc Garellek and Matthew Gordon, discussing issues with the IPA consonant chart, with some suggested changes proposed. 
+
+Update (March 2026): there was a lot of discussion after the talk, and we have now revised the chart further. Please see the most recent chart [here]()  together with some [notes]() about the revision. 
