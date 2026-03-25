@@ -17,4 +17,4 @@ Here is our map showing the [Illustrations of the IPA](https://richardbeare.gith
 
 And here is a [link](https://assta.org/wp-content/uploads/2024/11/No_01_Tabain_Garellek_et_al_2024_1_6.pdf) to my recent conference paper with Marc Garellek and Matthew Gordon, discussing issues with the IPA consonant chart, with some suggested changes proposed. 
 
-Update (March 2026): there was a lot of discussion after the talk, and we have now revised the chart further. Please see the most recent chart [here]()  together with some [notes]() about the revision. 
+Update (March 2026): there was a lot of discussion after the talk, and we have now revised the chart further. Please see the most recent chart [here](/files/New_IPA_Chart_revised_20250204.pdf)  together with some [notes](/files/Revised-IPA-chart-notes) about the revision. 
