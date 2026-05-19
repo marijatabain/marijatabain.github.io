@@ -216,13 +216,13 @@ Palethorpe, Sallyanne & **Marija Tabain**. (eds.) (2003). *Proceedings of the Si
 
 # Book Chapters
 
-Baker, Brett & **Marija Tabain**. (in press). Australian languages. In Martin Ball (ed.) *Approximants: Their Phonetics and Phonology*, Equinox Publishing. 
+Baker, Brett & **Marija Tabain**. (2026). Australian languages. In Martin Ball (ed.) *Approximants: Their Phonetics and Phonology*, 378–393, Equinox Publishing. ISBN: 978-1-4875-2886-7
 
 **Tabain, Marija**. (2023). Articulatory and acoustic phonetics. In Claire Bowern (ed.) *Oxford Handbook of Australian Languages*, 81–95, Oxford University Press. DOI:10.1093/oso/9780198824978.003.0009
 
-**Tabain, Marija**. (2019). The phonetic properties of consonants. In William Katz & Peter Assman (eds) *The Routledge Handbook of Phonetics*, 264–288, Oxon, New York: Routledge. ISBN : 0-429-05625-7
+**Tabain, Marija**. (2019). The phonetic properties of consonants. In William Katz & Peter Assman (eds) *The Routledge Handbook of Phonetics*, 264–288, Oxon, New York: Routledge. ISBN: 0-429-05625-7
 
-**Tabain, Marija**. (2013). Research methods in speech production. In Mark Jones & Rachael-Anne Knight (eds) *Bloomsbury Companion to Phonetics*, 39–56, London: Bloomsbury. ISBN : 9781441116116
+**Tabain, Marija**. (2013). Research methods in speech production. In Mark Jones & Rachael-Anne Knight (eds) *Bloomsbury Companion to Phonetics*, 39–56, London: Bloomsbury. ISBN: 9781441116116
 
 Massaro, Dominic, Michael Cohen, **Marija Tabain**, Jonas Beskow & Rachid Clark. (2012). Animated speech: research progress and applications. In Gérard Bailly, Pascal Perrier & Eric Vatikiotis-Bateson (eds) *Audiovisual Speech Processing*, 309–345, Cambridge UK: CUP. DOI: 10.1017/CBO9780511843891 ISBN: 9781107006829
 
