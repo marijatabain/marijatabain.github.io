@@ -21,6 +21,8 @@ author_profile: true
 
 # Journal Papers 
 
+**Tabain, Marija**, Mate Kapović, Matthew Gordon, Adele Gregory & Richard Beare. (in press). Lexical pitch accents in Croatian: the split cue system of Split. *Journal of Phonetics*
+
 Gordon, Matthew, **Marija Tabain**, Mate Kapović, Adele Gregory & Richard Beare. (2025). Syllable structure and lexical pitch accent in Split Croatian. *Laboratory Phonology* **16** 1–51 [link](https://doi.org/10.16995/labphon.17578)
 
 **Tabain, Marija**, Jaye Padgett, Gertrud Schneider-Blum, Adele Gregory & Richard Beare. (2024). An acoustic study of ATR in Tima vowels: vowel quality, voice quality and duration. *Phonology* **41** 1–28 [link](https://doi.org/10.1017/S0952675724000125) 
