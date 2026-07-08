@@ -21,7 +21,7 @@ author_profile: true
 
 # Journal Papers 
 
-**Tabain, Marija**, Mate Kapović, Matthew Gordon, Adele Gregory & Richard Beare. (in press). Lexical pitch accents in Croatian: the split cue system of Split. *Journal of Phonetics*
+**Tabain, Marija**, Mate Kapović, Matthew Gordon, Adele Gregory & Richard Beare. (2026). Lexical pitch accents in Croatian: the split cue system of Split. *Journal of Phonetics* **118** 1–26 [link](https://doi.org/10.1016/j.wocn.2026.101516)
 
 Gordon, Matthew, **Marija Tabain**, Mate Kapović, Adele Gregory & Richard Beare. (2025). Syllable structure and lexical pitch accent in Split Croatian. *Laboratory Phonology* **16** 1–51 [link](https://doi.org/10.16995/labphon.17578)
 
