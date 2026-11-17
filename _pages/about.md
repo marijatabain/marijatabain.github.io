@@ -13,8 +13,7 @@ My research is in articulatory and acoustic phonetics, and my work has focused o
 
 I am a Principal Fellow at the [University of Melbourne](https://www.unimelb.edu.au/), and Editor of the [*Journal of the International Phonetic Association (JIPA)*](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association), with special responsibility for the Illustrations of the International Phonetic Alphabet. I am also an executive council member of the [International Phonetic Association](https://www.internationalphoneticassociation.org/). I previously served as an associate editor for the [*Journal of Phonetics*](https://www.sciencedirect.com/journal/journal-of-phonetics). 
 
-Here is our map showing the [Illustrations of the IPA](https://richardbeare.github.io/marijatabain/ipa_illustrations_all.html), which are published in *JIPA* 
+Here is our map showing the [Illustrations of the IPA](https://richardbeare.github.io/marijatabain/ipa_illustrations_all.html), which are published in *JIPA*. 
 
-And here is a [link](https://assta.org/wp-content/uploads/2024/11/No_01_Tabain_Garellek_et_al_2024_1_6.pdf) to my recent conference paper with Marc Garellek and Matthew Gordon, discussing issues with the IPA consonant chart, with some suggested changes proposed. 
+**Update - November 2026** Here is a [link](/files/TabainGarellekGordon_Proposed-revision-of-IPA-Consonant-Chart.pdf) to the revision of the IPA consonant chart that I have proposed with Marc Garellek and Matthew Gordon; and here is a [link](/files/TabainGarellekGordon_DiscussionOfRevisedChart.pdf) to some discussion and explanation of the proposed changes. These proposals are also available for comment as part of the online forum for revision of the IPA chart in 2029. 
 
-**Update**: there was a lot of discussion after the talk, and we have now revised the chart further. Please see the most recent chart [here](/files/New_IPA_Chart_revised_20250204.pdf)  together with some [notes](/files/Revised-IPA-chart-notes) about the revision. 
